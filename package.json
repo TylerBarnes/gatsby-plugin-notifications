@@ -1,7 +1,7 @@
 {
-  "name": "gatsby-starter-plugin",
-  "version": "1.0.0",
-  "description": "A minimal boilerplate for the essential files Gatsby looks for in a plugin",
+  "name": "gatsby-plugin-notifications",
+  "version": "0.0.1",
+  "description": "Notifications for `gatsby develop` and `gatsby build`",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,6 +10,12 @@
     "gatsby",
     "gatsby-plugin"
   ],
-  "author": "Kyle Gill <kyle.robert.gill@gmail.com>",
-  "license": "MIT"
+  "author": "Tyler Barnes <tylerdbarnes@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "google-tts-api": "^0.0.4",
+    "node-notifier": "^7.0.0",
+    "open": "^7.0.3",
+    "play-sound": "^1.1.3"
+  }
 }
