@@ -1,6 +1,6 @@
 {
   "name": "gatsby-plugin-notifications",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Notifications for `gatsby develop` and `gatsby build`",
   "main": "index.js",
   "scripts": {
@@ -11,6 +11,7 @@
     "gatsby-plugin"
   ],
   "author": "Tyler Barnes <tylerdbarnes@gmail.com>",
+  "homepage": "https://github.com/TylerBarnes/gatsby-plugin-notifications",
   "license": "MIT",
   "dependencies": {
     "google-tts-api": "^0.0.4",
