@@ -14,7 +14,7 @@
   "homepage": "https://github.com/TylerBarnes/gatsby-plugin-notifications",
   "license": "MIT",
   "dependencies": {
-    "node-notifier": "^7.0.0",
+    "node-notifier": "^8.0.1",
     "open": "^7.0.3",
     "play-sound": "^1.1.3"
   }
